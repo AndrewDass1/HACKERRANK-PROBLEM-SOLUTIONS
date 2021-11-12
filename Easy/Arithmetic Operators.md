@@ -7,14 +7,14 @@ The provided code stub reads two integers from STDIN, a and b. Add code to print
 
 # Procedure
 
-Declare variables a and b:
+1. Declare variables a and b:
 
 ```
 a = int(input("")
 b = int(input("")
 ```
 
-Now on different lines, print the addition, subraction and the product:
+2. Now on different lines, print the addition, subraction and the product:
 ```
 print(a + b )
 
