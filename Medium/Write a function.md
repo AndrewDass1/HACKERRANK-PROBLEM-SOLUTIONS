@@ -38,8 +38,31 @@ These numbers are divisible by 4 but also divisible by 100, therefore they are n
 <br>
 By knowing this information, an if-elif block can be used to iterate through the leap year conditions to validify which number is a leap year. <br>
 <br>
-Remember an if statement is executed and returns a True statement, the if-elif block finishes running and returns True. Organzing the structure of each if statement is crucial to make sure each condition is went through to prove any number is either a leap or not a leap year. 
+Remember an if statement is executed and returns a True statement, the if-elif block finishes running and returns True. Organzing the structure of each if statement is crucial to make sure each condition is went through to prove any number is either a leap or not a leap year. <br>
+<br>
+A possible method is to initate the first if statement to be:
+```
+if(year % 400 ) == 0:
+    return True
+```
+If any year number is divisible by 400 it is automatically a leap year. <br>
+<br>
 
+Some numbers can be both divisible by 4 and 100, but if it is divisible by 100, then it is not a leap year. To incorporate this statement into code, it can be written as:
+```
+elif (year % 100 == 0):
+    return False
+```
+Then another elif statement must be integrated to show if a number is only divisible by 4 and it a leap year:
+```
+elif (year % 4 == 0):
+    return True
+```
+If a number does not specify any of these conditions, always include a else statement to return False as it does meet any of the leap year requirements:
+```
+else:
+    return False
+```
 # Solution
 ```
 def is_leap(year):
