@@ -36,6 +36,7 @@ Example not leap years: <br>
 These numbers are divisible by 4 but also divisible by 100, therefore they are not leap years. <br>
 <br>
 By knowing this information, an if-elif block can be used to iterate through the leap year conditions to validify which number is a leap year. <br>
+<br>
 Remember an if statement is executed and returns a True statement, the if-elif block finishes running and returns True. Organzing the structure of each if statement is crucial<br>
 to make sure each condition is went through to prove any number is either a leap or not a leap year. 
 
