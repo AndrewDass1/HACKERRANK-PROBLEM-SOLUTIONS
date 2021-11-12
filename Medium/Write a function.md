@@ -16,6 +16,7 @@ Note that the code stub provided reads from STDIN and passes arguments to the is
 
 # Procedure
 From the Context and Task instructions, any year is to be inputted through a function and tell whether it is a leap year or not. <br>
+<br>
 Once again a leap year is: <br>
 A year divisible by 4 but not 100 unless the number is divisible by 100 and 400 <br>
 
@@ -37,8 +38,7 @@ These numbers are divisible by 4 but also divisible by 100, therefore they are n
 <br>
 By knowing this information, an if-elif block can be used to iterate through the leap year conditions to validify which number is a leap year. <br>
 <br>
-Remember an if statement is executed and returns a True statement, the if-elif block finishes running and returns True. Organzing the structure of each if statement is crucial<br>
-to make sure each condition is went through to prove any number is either a leap or not a leap year. 
+Remember an if statement is executed and returns a True statement, the if-elif block finishes running and returns True. Organzing the structure of each if statement is crucial to make sure each condition is went through to prove any number is either a leap or not a leap year. 
 
 # Solution
 ```
