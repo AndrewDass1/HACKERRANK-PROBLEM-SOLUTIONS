@@ -9,14 +9,15 @@ Note that "" represents the consecutive values in between.<br>
 **Example** <br>
 Print the string 12345 <br>
 <br>
+
 **Input Format** <br>
-<br>
 The first line contains an integer n <br>
 <br>
+
 **Constraints** <br>
 1 <= n <= 150 <br>
+
 **Output Format** <br>
-<br>
 Print the list of integers from through as a string, without spaces.
 
 # Procedure
