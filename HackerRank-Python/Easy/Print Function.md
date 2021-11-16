@@ -6,16 +6,16 @@ Without using any string methods, try to print the following: <br>
 <br>
 Note that "" represents the consecutive values in between.<br>
 <br>
-Example <br>
+**Example** <br>
 Print the string 12345 <br>
 <br>
-Input Format <br>
+**Input Format** <br>
 <br>
 The first line contains an integer n <br>
 <br>
-Constraints <br>
+**Constraints** <br>
 1 <= n <= 150 <br>
-Output Format <br>
+**Output Format** <br>
 <br>
 Print the list of integers from through as a string, without spaces.
 
