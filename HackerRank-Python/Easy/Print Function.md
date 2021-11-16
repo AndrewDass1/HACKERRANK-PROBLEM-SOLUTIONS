@@ -3,7 +3,9 @@ The included code stub will read an integer, n, from STDIN. <br>
 <br>
 Without using any string methods, try to print the following: <br>
 123...n<br>
+<br>
 Note that "" represents the consecutive values in between.<br>
+<br>
 Example <br>
 Print the string 12345 <br>
 <br>
