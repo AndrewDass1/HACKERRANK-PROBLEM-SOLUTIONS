@@ -45,8 +45,7 @@ substring_length = len(sub_string)
   find_match = 0
 ```
 
-4. Implement a for loop to iterate through string's indexes to see if it is equal to the substring provided. If there is a match, the find_match counter will be updated 
-5. and find_match is the variable that will be returned from the function. 
+4. Implement a for loop to iterate through string's indexes to see if it is equal to the substring provided. If there is a match, the find_match counter will be updated and find_match is the variable that will be returned from the function. 
 ```
 for i in range(0, len(string)):
     if string[start:second_start] == sub_string:
