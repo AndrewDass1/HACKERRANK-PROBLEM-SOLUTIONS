@@ -4,6 +4,18 @@ The included code stub will read an integer, n, from STDIN. <br>
 Without using any string methods, try to print the following: <br>
 123...n<br>
 Note that "" represents the consecutive values in between.<br>
+Example <br>
+Print the string 12345 <br>
+<br>
+Input Format <br>
+<br>
+The first line contains an integer n <br>
+<br>
+Constraints <br>
+1 <= n <= 150 <br>
+Output Format <br>
+<br>
+Print the list of integers from through as a string, without spaces.
 
 # Procedure
 1. Declare variable n to take the input to be any number:
