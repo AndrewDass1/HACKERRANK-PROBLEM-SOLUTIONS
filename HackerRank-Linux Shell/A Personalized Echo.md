@@ -1,4 +1,4 @@
-# # A Personalized Echo
+# A Personalized Echo
 
 ## Task 
 Write a bash script which accepts name as input and displays the greeting "Welcome (name)"
