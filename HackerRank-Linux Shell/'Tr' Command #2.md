@@ -4,7 +4,7 @@ In this challenge, we practice using the tr command because it is a useful trans
 <br>
 Link to the Problem: https://www.hackerrank.com/challenges/text-processing-tr-2/problem
 ## Explanation
-The 'tr' command can also dispose of any unwanted characters with '-d'. To dispose of any lowercase letters, any wanted characters can be specified or a range of letters with '-d'. 
+The 'tr' command can also delete any unwanted characters with '-d'. Any characters including lowercase letters or a range of letters can be specified to be deleted by using the option '-d' to dispose of them. 
 
 ## Final Solution
 ```
