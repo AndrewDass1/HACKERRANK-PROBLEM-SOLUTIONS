@@ -1,4 +1,4 @@
-# Intro to Conditional Statements
+# Day 3: Intro to Conditional Statements
 ## Task
 Given an integer, n, perform the following conditional actions: <br>
 <br>
