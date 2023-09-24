@@ -48,7 +48,7 @@ s_statements = s + s2
 ```
 Then, print the statements or results after adding the variables together.
 
-### Solution
+## Solution
 ```
 i = 4
 d = 4.0
