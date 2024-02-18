@@ -5,7 +5,7 @@ In this challenge, we practice using the uniq command to eliminate consecutive r
 Link to the Problem: https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem
 
 ## Explanation
-The command 'uniq' searches and removes all repeated lines that appea after the first line that has that same text. In this problem, the sample input is:
+The command 'uniq' searches and removes all repeated lines that appear after the first line that has that same text. In this problem, the sample input is:
 ```
 00
 00
